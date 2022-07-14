@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tech News</string>
+    <string name="title_bookmark">Bookmark</string>
+
+    <string name="pref_key_dark" translatable="false">key_dark_mode</string>
+    <string name="pref_dark_auto" translatable="false">auto</string>
+    <string name="pref_dark_on" translatable="false">on</string>
+    <string name="pref_dark_off" translatable="false">off</string>
+    <string name="dark_mode_auto">Automatic</string>
+    <string name="dark_mode_on">Dark mode</string>
+    <string name="dark_mode_off">Light mode</string>
+
+    <string name="something_wrong">Terjadi kesalahan...</string>
+</resources>
